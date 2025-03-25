@@ -1,0 +1,13 @@
+data/
+models/
+__pycache__/
+*.pyc
+*.wav
+*.pt
+*.pth
+*.pkl
+*.log
+.DS_Store
+*.ipynb
+venv/
+.env/

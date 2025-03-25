@@ -1,0 +1,6 @@
+numpy
+librosa
+torch
+scikit-learn
+joblib  # For saving/loading scalers
+tqdm    # For progress bars (optional)
